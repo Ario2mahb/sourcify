@@ -13,7 +13,7 @@ module.exports = {
     "@typescript-eslint/no-explicit-any": "off",
     indent: [
       "error",
-      2,
+      5,
       { SwitchCase: 1, ignoredNodes: ["ConditionalExpression"] },
     ],
   },
